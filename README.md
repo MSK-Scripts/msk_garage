@@ -1,4 +1,4 @@
-# MSK Garage
+<img width="1920" height="1080" alt="msk_garage-banner" src="https://github.com/user-attachments/assets/684c9e02-83e4-44d5-989d-975b46227b69" />
 
 <div align="center">
 
