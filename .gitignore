@@ -1,0 +1,61 @@
+# Compiled Lua sources
+luac.out
+
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+# Object files
+*.o
+*.os
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Node / NUI dev dependencies (the built web/ output in html/ IS committed —
+# the server has no npm; do NOT ignore html/).
+node_modules/
+web/node_modules/
+
+# Graphify
+graphify-out/*
+!graphify-out/graph.json
+!graphify-out/GRAPH_REPORT.md
+
+# Local dev tooling (Claude Code launch config etc.)
+.claude/
+
+# Other files
+CLAUDE.md
+CFX_POST.md
+DISCORD_CHANGELOGS.md
+TEBEX.md
+
+web/tsconfig.tsbuildinfo

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://docu.msk-scripts.de/docs/msk_garage/
+    about: Installation, configuration and exports.
+  - name: Discord
+    url: https://discord.gg/5hHSBRHvJE
+    about: Questions and help from the community.
